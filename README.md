@@ -21,7 +21,7 @@ This project is place to hold the material to public. What you can find here is
    
 4. Algo (EA) scripts 
     
-    Algo modules are listed here     
+    Algo modules are listed here [algos] (algos)   
 
 # Tutorial
 
