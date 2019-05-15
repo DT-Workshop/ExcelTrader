@@ -1,4 +1,6 @@
-Xceder is designed for the high frequency and algo trading. It can route the order in millisecond level. In our live trading, we see almost all order process latency less than 10 milliseconds, many of them even just 1 millisecond. leverage on this speed edge, the spreader trading and algo trading is not just privilege from those big players.
+Xceder is designed for the high frequency and algo trading. It can route the order in millisecond level. In our live trading, 
+we see almost all order process latency less than 10 milliseconds, many of them even just 1 millisecond. leverage on this speed edge, 
+the spreader trading and algo trading is not just privilege from those big players.
 
 # Project structure
 
@@ -16,6 +18,10 @@ This project is place to hold the material to public. What you can find here is
 
    This is to simplify the client side development. It will handle the protobuf message protocol and network communication.
    The client side only need call the provided functions to submit the request and receive the real time data through the events
+   
+4. Algo (EA) scripts 
+    
+    Algo modules are listed here     
 
 # Tutorial
 
